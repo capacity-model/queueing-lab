@@ -2,7 +2,7 @@
 
 An interactive multi-server queueing simulator: explore arrival and service rates, number of servers, utilization, waiting times, and queue length. Developed for **ISyE 6202 & 6335 — Supply Chain Facilities** at the Georgia Institute of Technology (Instructor: Prof. Benoit Montreuil).
 
-- **Live app:** https://capacity-model.github.io/queueing-lab/
+- **Web (HTML):** https://capacity-model.github.io/queueing-lab/
 
 Runs entirely in the browser — nothing to install. Just open the link above, set the parameters, and run.
 
